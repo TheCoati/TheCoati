@@ -20,8 +20,8 @@ I'd like to work with the newest technologies based on application development e
 </p>
 
 <h2>Skills</h2>
-As developer I am interested in a wide variety of programming languages and frameworks.<br>
-On daily basses I am working with the following languages and frameworks of choice.<br>
+As a developer, I am interested in a wide variety of programming languages and frameworks.<br>
+On daily basis, I am working with the following languages and frameworks of choice.<br>
 <br>
 <ul>
 	<li>
