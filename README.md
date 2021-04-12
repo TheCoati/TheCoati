@@ -3,24 +3,24 @@
 <hr>
 
 <p align="center">
-     <a href="#">
+     <a href="https://twitter.com/KevinSchreuder_">
      	<img src="https://img.shields.io/badge/Follow-on_Twitter-blue?color=1DA1F2">
      </a>
-     <a href="#">
-   	 	<img src="https://img.shields.io/badge/Chat-on_Discord-purple?color=7289DA">
+     <a href="https://discord.com/users/245566467402104832">
+   	 <img src="https://img.shields.io/badge/Chat-on_Discord-purple?color=7289DA">
      </a>
-     <a href="#">
+     <a href="https://www.linkedin.com/in/kevinschreuder">
      	<img src="https://img.shields.io/badge/Connect-on_LinkedIn-blue">
      </a>
 </p>
 
 <p>
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vestibulum enim eget tortor tempus, tempus molestie dolor aliquam. Nullam in vestibulum sapien, porttitor aliquam ligula. Aenean egestas dui orci, non tincidunt sem eleifend ut. Donec congue nisi tellus, ac facilisis libero blandit auctor. Sed bibendum facilisis velit. Vivamus lorem justo, maximus nec ullamcorper a, vulputate a sem. Integer ut ultrices dui. Nulla sapien lectus, bibendum nec volutpat vel, rhoncus in augue.   
+   As an impassioned application developer, I'm always working on turning my ideas into concepts.
+I'd like to work with the newest technologies based on application development en like to use these technologies on my projects. 
 </p>
 
 <h2>Skills</h2>
 As developer I am interested in a wide variety of programming languages and frameworks.<br>
-
 On daily basses I am working with the following languages and frameworks of choice.<br>
 <br>
 <ul>
