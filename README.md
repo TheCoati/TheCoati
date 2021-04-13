@@ -66,8 +66,6 @@ On daily basis, I am working with the following languages and frameworks of choi
     </li>
 </ul>
 
-![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KSchreuder&hide_title=true&private=true&hide_border=true&langs_count=5)
-
 <br>
 
 ## Contact
