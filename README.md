@@ -38,4 +38,4 @@ I'm primarily developing game extensions for the following games:
 ## Contact
 
 🤝🏼 **Want to get in touch?**<br>
-Lets get in touch through one the my social channels or send an email to <a href="mailt:contact@kevinschreuder.com">contact@kevinschreuder.com</a>.<br>
+Contact me through one of my social channels or send an email to <a href="mailt:contact@kevinschreuder.com">contact@kevinschreuder.com</a>.
