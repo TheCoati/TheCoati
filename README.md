@@ -19,6 +19,8 @@ I like to work with the newest technologies based on application development and
 Fulltime backend developer [@QlicSoftware](https://github.com/QlicSoftware) \
 Technical product owner [@KipNetwork](https://github.com/kipnetwork)
 
+📕 _Certified Laravel Developer_
+
 ## Skills
 
 My primary choice of tech stacks contain:
