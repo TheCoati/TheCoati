@@ -1,9 +1,6 @@
-<h2 align="center">Hello, 👋🏽 I'm Kevin</h2>
+<h2 align="center">Hello, 👋🏽</h2>
 
 <p align="center">
-     <a href="https://twitter.com/KevinSchreuder_">
-     	<img src="https://img.shields.io/badge/Follow-on_Twitter-blue?color=1DA1F2">
-     </a>
      <a href="https://discord.com/users/245566467402104832">
    	 <img src="https://img.shields.io/badge/Chat-on_Discord-purple?color=7289DA">
      </a>
