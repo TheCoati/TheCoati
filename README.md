@@ -7,6 +7,9 @@
      <a href="https://www.linkedin.com/in/kevinschreuder">
      	<img src="https://img.shields.io/badge/Connect-on_LinkedIn-blue?color=0072b1&style=for-the-badge">
      </a>
+      <a href="https://github.com/sponsors/KSchreuder">
+     	<img src="https://img.shields.io/badge/Become-Sponsor-pink?color=EA4AAA&style=for-the-badge&logo=githubsponsors">
+     </a>
 </p>
 
 
