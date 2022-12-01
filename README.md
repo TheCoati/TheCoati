@@ -2,10 +2,10 @@
 
 <p align="center">
      <a href="https://discord.com/users/245566467402104832">
-   	 <img src="https://img.shields.io/badge/Chat-on_Discord-purple?color=7289DA">
+   	 <img src="https://img.shields.io/badge/Chat-on_Discord-purple?color=7289DA&style=for-the-badge">
      </a>
      <a href="https://www.linkedin.com/in/kevinschreuder">
-     	<img src="https://img.shields.io/badge/Connect-on_LinkedIn-blue">
+     	<img src="https://img.shields.io/badge/Connect-on_LinkedIn-blue?color=0072b1&style=for-the-badge">
      </a>
 </p>
 
