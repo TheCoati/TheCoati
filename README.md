@@ -32,9 +32,4 @@ Besides these languages and tech stacks, I'm also working on game extensions in 
 I'm primarily developing game extensions for the following games:
 
 - <img src="https://user-images.githubusercontent.com/9860488/143205506-9c357b0d-8099-424b-8897-e55fc13c2864.png" height="14"> [Minecraft](https://minecraft.net) **(** [Spigot](https://spigotmc.org), [MineStom](https://minestom.net) **)**
-- <img src="https://user-images.githubusercontent.com/9860488/143205666-01900e38-dfcb-49be-8a00-475ae0e617fc.png" height="14"> [FiveM](https://fivem.net) 
-
-## Contact
-
-🤝🏼 **Want to get in touch?**<br>
-Contact me through one of my social channels or send an email to <a href="mailt:contact@kevinschreuder.com">contact@kevinschreuder.com</a>.
+- <img src="https://user-images.githubusercontent.com/9860488/143205666-01900e38-dfcb-49be-8a00-475ae0e617fc.png" height="14"> [FiveM](https://fivem.net)
