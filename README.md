@@ -16,7 +16,7 @@
 As an impassioned application developer, I'm always working on turning my ideas into concepts. \
 I like to work with the newest technologies based on application development and to use these technologies on my projects.
 
-📕 Certified Laravel Developer
+📕 **Certified Laravel Developer**
 
 ## Skills
 
