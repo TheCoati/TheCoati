@@ -1,4 +1,4 @@
-<h2 align="center">Hello, 👋🏽</h2>
+<h2 align="center">Hello 👋🏽</h2>
 
 <p align="center">
      <a href="https://discord.com/users/245566467402104832">
