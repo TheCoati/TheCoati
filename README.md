@@ -10,8 +10,7 @@
 </p>
 
 
-As an impassioned application developer, I'm always working on turning my ideas into concepts. \
-I like to work with the newest technologies based on application development and to use these technologies on my projects.
+As an application developer, I am constantly focused on transforming my ideas into concrete concepts. I have a strong passion for utilizing the latest technologies in the field of application development and applying these cutting-edge tools to my projects.
 
 📕 **Certified Laravel Developer**
 
